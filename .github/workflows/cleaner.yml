@@ -1,4 +1,4 @@
-name: پاک کردن فایلها
+name: 🗑 پاک کردن فایلها
 
 on:
   workflow_dispatch:
