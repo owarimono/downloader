@@ -3,6 +3,7 @@
 - [@BankBookkonkor](./@BankBookkonkor)
 - [tele-mirror-arm64-win](./tele-mirror-arm64-win)
 - [tele-mirror-arm64-win_sky](./tele-mirror-arm64-win_sky)
+- [wasdk-x64](./wasdk-x64)
 
 ---
 
