@@ -5,6 +5,7 @@
 - [GitHub-Store-1.8.1](./GitHub-Store-1.8.1)
 - [NSMusicS-Win-2.3.1-x64](./NSMusicS-Win-2.3.1-x64)
 - [RiseSoftware.RiseMP.V0.0.300.0](./RiseSoftware.RiseMP.V0.0.300.0)
+- [Screenbox_0.18.3.0_neutral](./Screenbox_0.18.3.0_neutral)
 - [Spotube-windows-x86_64-setup](./Spotube-windows-x86_64-setup)
 - [The.Untamed.Music.Player_0.5.0.0_x64](./The.Untamed.Music.Player_0.5.0.0_x64)
 - [UntamedMusicPlayer_0.5.13.0_x64](./UntamedMusicPlayer_0.5.13.0_x64)
