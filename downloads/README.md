@@ -4,6 +4,7 @@
 - [FLB-Music-Setup-1.2.1](./FLB-Music-Setup-1.2.1)
 - [GitHub-Store-1.8.1](./GitHub-Store-1.8.1)
 - [NSMusicS-Win-2.3.1-x64](./NSMusicS-Win-2.3.1-x64)
+- [Spotube-windows-x86_64-setup](./Spotube-windows-x86_64-setup)
 - [bundle](./bundle)
 - [tele-mirror-arm64-win](./tele-mirror-arm64-win)
 - [tele-mirror-arm64-win_sky](./tele-mirror-arm64-win_sky)

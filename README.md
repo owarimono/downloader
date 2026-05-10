@@ -93,6 +93,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [@BankBookkonkor](https://github.com/owarimono/downloader/tree/main/downloads/@BankBookkonkor)
@@ -103,14 +105,16 @@ a
 
 4. [NSMusicS-Win-2.3.1-x64](https://github.com/owarimono/downloader/tree/main/downloads/NSMusicS-Win-2.3.1-x64)
 
-5. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
+5. [Spotube-windows-x86_64-setup](https://github.com/owarimono/downloader/tree/main/downloads/Spotube-windows-x86_64-setup)
 
-6. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
+6. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
 
-7. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
+7. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
 
-8. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+8. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
 
-9. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
+9. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+
+10. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
 
 ---
