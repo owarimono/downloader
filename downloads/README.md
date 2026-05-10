@@ -7,6 +7,7 @@
 - [RiseSoftware.RiseMP.V0.0.300.0](./RiseSoftware.RiseMP.V0.0.300.0)
 - [Spotube-windows-x86_64-setup](./Spotube-windows-x86_64-setup)
 - [UntamedMusicPlayer_0.5.13.0_x64](./UntamedMusicPlayer_0.5.13.0_x64)
+- [UntamedMusicPlayer_0.5.6.0_x64](./UntamedMusicPlayer_0.5.6.0_x64)
 - [bundle](./bundle)
 - [tele-mirror-arm64-win](./tele-mirror-arm64-win)
 - [tele-mirror-arm64-win_sky](./tele-mirror-arm64-win_sky)
