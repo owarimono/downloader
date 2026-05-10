@@ -10,6 +10,7 @@
 - [UntamedMusicPlayer_0.5.13.0_x64](./UntamedMusicPlayer_0.5.13.0_x64)
 - [UntamedMusicPlayer_0.5.6.0_x64](./UntamedMusicPlayer_0.5.6.0_x64)
 - [bundle](./bundle)
+- [d0cd1252-cc80-44d8-8d62-89d206272be9](./d0cd1252-cc80-44d8-8d62-89d206272be9)
 - [tele-mirror-arm64-win](./tele-mirror-arm64-win)
 - [tele-mirror-arm64-win_sky](./tele-mirror-arm64-win_sky)
 - [v2rayN-windows-64](./v2rayN-windows-64)
