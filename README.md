@@ -87,18 +87,22 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [@BankBookkonkor](https://github.com/owarimono/downloader/tree/main/downloads/@BankBookkonkor)
 
-2. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
+2. [GitHub-Store-1.8.1](https://github.com/owarimono/downloader/tree/main/downloads/GitHub-Store-1.8.1)
 
-3. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
+3. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
 
-4. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
+4. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
 
-5. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+5. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
 
-6. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
+6. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+
+7. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
 
 ---
