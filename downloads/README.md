@@ -6,6 +6,7 @@
 - [NSMusicS-Win-2.3.1-x64](./NSMusicS-Win-2.3.1-x64)
 - [RiseSoftware.RiseMP.V0.0.300.0](./RiseSoftware.RiseMP.V0.0.300.0)
 - [Spotube-windows-x86_64-setup](./Spotube-windows-x86_64-setup)
+- [The.Untamed.Music.Player_0.5.0.0_x64](./The.Untamed.Music.Player_0.5.0.0_x64)
 - [UntamedMusicPlayer_0.5.13.0_x64](./UntamedMusicPlayer_0.5.13.0_x64)
 - [UntamedMusicPlayer_0.5.6.0_x64](./UntamedMusicPlayer_0.5.6.0_x64)
 - [bundle](./bundle)
