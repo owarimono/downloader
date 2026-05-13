@@ -3,6 +3,7 @@
 - [@BankBookkonkor](./@BankBookkonkor)
 - [FLB-Music-Setup-1.2.1](./FLB-Music-Setup-1.2.1)
 - [GitHub-Store-1.8.1](./GitHub-Store-1.8.1)
+- [Horny-Downloader-Setup-1.1.6](./Horny-Downloader-Setup-1.1.6)
 - [NSMusicS-Win-2.3.1-x64](./NSMusicS-Win-2.3.1-x64)
 - [RiseSoftware.RiseMP.V0.0.300.0](./RiseSoftware.RiseMP.V0.0.300.0)
 - [Screenbox_0.18.3.0_neutral](./Screenbox_0.18.3.0_neutral)
