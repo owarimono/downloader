@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [@BankBookkonkor](./@BankBookkonkor)
+- [Audiomatic-Setup-x64](./Audiomatic-Setup-x64)
 - [FLB-Music-Setup-1.2.1](./FLB-Music-Setup-1.2.1)
 - [GitHub-Store-1.8.1](./GitHub-Store-1.8.1)
 - [Horny-Downloader-Setup-1.1.6](./Horny-Downloader-Setup-1.1.6)
