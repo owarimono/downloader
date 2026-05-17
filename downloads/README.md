@@ -12,6 +12,7 @@
 - [The.Untamed.Music.Player_0.5.0.0_x64](./The.Untamed.Music.Player_0.5.0.0_x64)
 - [UntamedMusicPlayer_0.5.13.0_x64](./UntamedMusicPlayer_0.5.13.0_x64)
 - [UntamedMusicPlayer_0.5.6.0_x64](./UntamedMusicPlayer_0.5.6.0_x64)
+- [ai-studio-desktop-1.5.2-win](./ai-studio-desktop-1.5.2-win)
 - [bundle](./bundle)
 - [d0cd1252-cc80-44d8-8d62-89d206272be9](./d0cd1252-cc80-44d8-8d62-89d206272be9)
 - [tele-mirror-arm64-win](./tele-mirror-arm64-win)

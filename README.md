@@ -113,6 +113,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [@BankBookkonkor](https://github.com/owarimono/downloader/tree/main/downloads/@BankBookkonkor)
@@ -139,16 +141,18 @@ a
 
 12. [UntamedMusicPlayer_0.5.6.0_x64](https://github.com/owarimono/downloader/tree/main/downloads/UntamedMusicPlayer_0.5.6.0_x64)
 
-13. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
+13. [ai-studio-desktop-1.5.2-win](https://github.com/owarimono/downloader/tree/main/downloads/ai-studio-desktop-1.5.2-win)
 
-14. [d0cd1252-cc80-44d8-8d62-89d206272be9](https://github.com/owarimono/downloader/tree/main/downloads/d0cd1252-cc80-44d8-8d62-89d206272be9)
+14. [bundle](https://github.com/owarimono/downloader/tree/main/downloads/bundle)
 
-15. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
+15. [d0cd1252-cc80-44d8-8d62-89d206272be9](https://github.com/owarimono/downloader/tree/main/downloads/d0cd1252-cc80-44d8-8d62-89d206272be9)
 
-16. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
+16. [tele-mirror-arm64-win](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win)
 
-17. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+17. [tele-mirror-arm64-win_sky](https://github.com/owarimono/downloader/tree/main/downloads/tele-mirror-arm64-win_sky)
 
-18. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
+18. [v2rayN-windows-64](https://github.com/owarimono/downloader/tree/main/downloads/v2rayN-windows-64)
+
+19. [wasdk-x64](https://github.com/owarimono/downloader/tree/main/downloads/wasdk-x64)
 
 ---
